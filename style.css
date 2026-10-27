@@ -3,26 +3,12 @@ h2{
     
 }
 
-.container {
-  display: flex;
-  gap: 16px;
-  justify-content: center;
-  align-items: center;
-}
-
 .blue{
     color: #0000FF;
     
 }
 
-a{
-    color: #ff9990;
-}
 
-a:hover{
-    color: #ff3300;
-    font-size: 20px;
-}
 
 .img{
     width: 300px;
